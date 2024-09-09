@@ -2,6 +2,6 @@
     "name": "21BPS1537",
     "website": "https://github.com/Khaushik-P/",
     "description": "sre intern",
-    "logo": "s3://mypng-bucket/logo.png",
+    "logo": "https://raw.githubusercontent.com/Khaushik-P/sre-assignment/main/logo.png",
     "twitter": "https://twitter.com/your-twitter-handle"
 }
